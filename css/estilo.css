@@ -1,4 +1,10 @@
 
+body{
+	margin-top: 10px;
+}
+
+
+
 .fila1{
 background-image: url("../img/kathryn.jpg");
 background-position: cover;
@@ -16,6 +22,15 @@ img{
 }
 
 .fila2{
+
+
+}
+
+
+h1, h2{
+	text-align: center;
+	margin-top:20px;
+
 
 
 
